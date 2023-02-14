@@ -1,0 +1,6 @@
+1..//table[@class="table cb-srs-pnts"]/thead/tr/td/ancestor::table/tbody/tr
+2..//h1[normalize-space(text())='Meta Founder Mark Zuckerberg gives do or die call, asks for the year of efficiency']/following-sibling::div/h2.
+
+1..//table[@class="table cb-srs-pnts"]/thead/tr/td[3]/ancestor::table/tbody/tr
+
+3.. //div[@class="flex-center group-buttons"]/button[text()='Community']/parent::div/following-sibling::div/div/h2[@id="community-curations"]/following-sibling::div/div[@class="resource-item"]
